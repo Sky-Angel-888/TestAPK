@@ -1,4 +1,0 @@
-[23/11/2026]	[Version]
-NewPipe.apk	0.29.3
-SkyTube.apk	3.003
-SmartTube.apk	32.80
